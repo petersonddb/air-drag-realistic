@@ -1,4 +1,4 @@
-# Realistic Air Drag Force
+# Realistic Air Drag Force Simulation
 
 ![Results for drag force sample simulation](drag.jpeg)
 
